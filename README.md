@@ -23,3 +23,4 @@ My all in one guide that help you make your first working paste
 
 > How To Make It Ud?
 - Dont go chasing water falls
+- Never buy any sources or drivers, ik your not going to listen to me and your going to have to learn the hard way.
