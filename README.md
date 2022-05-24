@@ -6,7 +6,7 @@ My all in one guide that help you make your first working paste
 - start by watching a basic course https://www.youtube.com/watch?v=vLnPwxZdW4Y
 - everyday watch this playlist and try to learn something new https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
 - if you prefer to read instead of watch then you can go to learncpp.com
-- learn pointers!
+- learn pointers! learn arrays! learn vectors! 
 
 > Drivers?
 - All of the information your cheat is taking in is done by reading memory from fortnite
