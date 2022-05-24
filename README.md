@@ -10,7 +10,7 @@ My all in one guide that help you make your first working paste
 
 > Drivers?
 - All of the information your cheat is taking in is done by reading memory from fortnite
-- Fortnite has a kernel leve anti cheat which means you wont be able to read and write from ring 3 (ring 3 is where your cheat is)
+- Fortnite has a kernel level anti cheat which means you wont be able to read and write from ring 3 (ring 3 is where your cheat is) https://cdn.discordapp.com/attachments/966163192663396453/977177591276523540/unknown.png
 - to read and write you will need to do it from kernel, so u need a kernel driver 
 - your driver must also be albe to communicate with your cheat so the cheat can recive the information that the driver has read. This is known as your communication method and the most effective way for the anti cheat to detect your driver. But it is also only one of the many ways they can detect your driver. One method of communication that you have probaly heard before is Iotcl. Iotcl is actaully agood communication method because most legit(drivers that arent used by cheats) are using iotcl. 
 - drivers are used by externals to read and write memory, drivers are also used by internals because injectors use drivers. You do not need a driver to read and write for internals, you can just use pointers. 
