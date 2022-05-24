@@ -20,3 +20,6 @@ My all in one guide that help you make your first working paste
 - I will be teaching you guys about externals since they are basic to understand and paste.
 - It is important that you know a tad bit of unreal engine. You need to know the difference between Actor, Pawn, And Player and how the camera works. You can watch this short video to learn the basics of unreal engine: https://www.youtube.com/watch?v=QJpfLkEsoek
 - Your cheat will need 4 things. You will first need a renderer to draw, I think the best one and most common one is imgui. Second you will need an overlay, this will be a transparent window that goes over fortnite that you can draw on. The third thing you need is an actorloop, this will be a for loop that goes through all of the players and draws boxes around them and does the aimbot. The forth thing you need is an cache, this will make an vector of players and filter out the players from the actors that your actorloop can loop through. 
+
+> How To Make It Ud?
+- Dont go chasing water falls
