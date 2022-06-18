@@ -25,5 +25,4 @@ My all in one guide that help you make your first working paste
 - Dont go chasing water falls
 - Never buy any sources or drivers, ik your not going to listen to me and your going to have to learn the hard way.
 
-I will be selling a video walkthrough course in my discord server were I will make a cheat from scratch and explain the proccess
-https://discord.gg/8GTHua4KZr
+
